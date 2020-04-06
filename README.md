@@ -1,0 +1,2 @@
+# myFirstGit
+learning the tutorial 
